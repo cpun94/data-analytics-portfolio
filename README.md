@@ -9,7 +9,8 @@ My personal goal is to strengthen and showcase my analytical thinking, technical
 
 ## Table of Contents
 • [Welcome & Overview](README.md)   
-• [Projects](https://github.com/cpun94/data-analytics-portfolio/tree/main#projects)
+• [Projects](https://github.com/cpun94/data-analytics-portfolio/tree/main#projects)  
+  • [Project 1: Exploratory Data Analysis (EDA)]()
   
 ## Projects
 This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders. 
