@@ -9,7 +9,7 @@ My personal goal through these projects is to strengthen and showcase my analyti
 
 ## Table of Contents
 • [Welcome & Overview](README.md)
-• [Project Descriptions]()
+• [Project Descriptions](https://github.com/cpun94/data-analytics-portfolio/tree/main#projects)
   
 ## Projects
 This section lists and summarizes each project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders. 
