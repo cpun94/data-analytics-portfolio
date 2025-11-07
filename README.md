@@ -22,12 +22,12 @@ This section lists and summarizes each personal project in a short, easy to dige
 • Skills: descriptive statistics, distributions, correlations, outliers, data visualization   
 • Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)  
 
-#### Project 2: 
-• Description: Exploratory Data Analysis (EDA)  
-• Skills: data cleaning, data analysis, data visualization    
-• Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)  
+<!--#### Project 2:--> 
+<!--• Description: Exploratory Data Analysis (EDA)-->
+<!--• Skills: data cleaning, data analysis, data visualization-->  
+<!--• Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)-->  
 
-#### Project 3: Full analysis 
-• Description: Exploratory Data Analysis (EDA)  
-• Skills: data cleaning, data analysis, data visualization    
-• Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)
+<!--#### Project 3: Full analysis--> 
+<!--• Description: Exploratory Data Analysis (EDA)-->  
+<!--• Skills: data cleaning, data analysis, data visualization-->    
+<!--• Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)-->
