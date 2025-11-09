@@ -1,4 +1,4 @@
-# Vancouver Housing Prices (2004-2024) Analysis
+# Vancouver Housing Prices Analysis
 
 This project explores metropolitan Vancouver housing prices over a 20-year period (2004–2024). As a new homeowner and lifelong Vancouverite, this topic is personally meaningful as housing affordability and market trends have become increasingly important both locally and across Canada.
 
