@@ -8,6 +8,7 @@ By the end of this analysis, the goal is to answer:
   • How have average housing prices in Vancouver changed between 2004 to 2024?  
   • Which neighborhoods have experienced the most significant growth?  
   • What external factors might explain observed trends?  
+  • What attributes correlate positively with sale price?
   
 This dataset is a publically available on [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years).  
 
