@@ -1,6 +1,6 @@
 # Vancouver Housing Prices (2004-2024) Analysis
 
-This project analyzes metropolitan Vancouver housing prices over a 20-year period (2004–2024). As a new homeowner and local Vancouverite, this topic is personally meaningful as housing affordability and market trends have become hot topics locally and nationally across Canada.
+This project analyzes metropolitan Vancouver housing prices over a 20-year period between 2004–2024. As a new homeowner and local Vancouverite, this topic is personally meaningful as housing affordability and market trends have become hot topics locally and nationally across Canada.
 
 The analysis will focus on the Exploratory-Data-Analysis (EDA) process involving cleaning and transforming raw real estate sales data, creating numerical summaries, exploring statistical patterns, and visualizing long-term price trends using Python (Pandas, Matplotlib, and Seaborn libraries).
 
