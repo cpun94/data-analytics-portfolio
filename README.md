@@ -15,7 +15,7 @@ This portfolio is a work in progress, and new projects will be added as I expand
  - [Project 1: Vancouver Housing Prices (2004-2024)](https://github.com/cpun94/data-analytics-portfolio/tree/main/Vancouver%20Housing%20Prices%20(2004-2024)#project-overview-vancouver-housing-prices-2004-2024)
   
 ## Projects
-This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders. 
+This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders under the table of contents. 
 
 #### Project 1: Vancouver Housing Prices (2004-2024)
 • Description: Exploratory Data Analysis (EDA)  
