@@ -25,7 +25,7 @@ Key findings and visualizations will be summarized here once analysis is complet
 ## Next Steps
 - Incorporate external datasets (interest rates, immigration data, construction activity) to integrate, analyse and draw further conclusions   
 - Create interactive dashboards in Power BI or Tableau to visualize predictions, seasonal trends, factors that may influence real estate sales   
-- Apply predictive analytics techniques such as linear regression or time-series forecasting to predict price  
+- Apply predictive analytics techniques such as linear regression or time-series forecasting to predict potential future selling price  
 
 <!--## Project Structure-->
 
