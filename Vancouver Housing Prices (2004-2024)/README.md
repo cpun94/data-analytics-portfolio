@@ -20,6 +20,10 @@ Key columns include: ``Neighborhood``, ``City``, ``Year``, ``Season``, ``Propert
 A separate reference table containing over 40 neighbourhoods in metropolitan Vancouver along with the cities they belong to is also provided. Relevant details will be joined to the primary real estate transactions dataset during the data preparation phase.   
 
 ## Key Insights
+- Total sales volume doubled with average sales price also more than doubling  
+- Spring season displayed the highest sales volume
+- North Vancouver, Burnaby, West Vancouver showed highest growth using sales growth % as primary metric
+- Properties built after 2010 commanded a higher premium than older homes 
 <!--Key findings and visualizations will be summarized here once analysis is complete.-->
 
 ## Next Steps
