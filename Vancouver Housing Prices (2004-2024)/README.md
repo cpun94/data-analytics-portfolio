@@ -20,10 +20,10 @@ Key columns include: ``Neighborhood``, ``City``, ``Year``, ``Season``, ``Propert
 A separate reference table containing over 40 neighbourhoods in metropolitan Vancouver along with the cities they belong to is also provided. Relevant details will be joined to the primary real estate transactions dataset during the data preparation phase.   
 
 ## Key Insights
-- Total sales volume doubled with average sales price also more than doubling  
-- Spring season displayed the highest sales volume
-- Vancouver, Surrey and Burnaby were the most popular cities to purchase real estate 
-- North Vancouver, Burnaby, and West Vancouver showed highest growth between 2004 - 2024 using sales revenue growth % as the primary evaluation metric
+- Total sales volume doubled with average sales price also more than doubling
+- COVID-19 pandemic and low interest rates fueled real estate activity between 2020 and 20222  
+- Vancouver was the most popular city to purchase real estate and Downtown Vancouver & New Westminster were most popular neighbourhoods to purchase property 
+- Spring & Summer were most active sales periods, as displayed by the numerous peaks in sales volume
 <!--- Properties built after 2010 commanded a higher premium than older homes-->
 <!--Key findings and visualizations will be summarized here once analysis is complete.-->
 
