@@ -24,9 +24,9 @@ This section lists and summarizes each personal project in a short, easy to dige
 - Tools & technologies: Python (NumPy, Pandas, and MaplotLib)
   
 #### Project 2: Netflix Subscriber Churn Prediction
-• Description: Building and evaluating different machine learning models, balancing model accuracy and model complexity, in order to predict subscriber churn using a dataset of over 5,000 records.  
-• Skills: machine learning, feature engineering, model evaluation , data preparation, data modeling, and communication  
-• Tools & technologies: Python (NumPy, Pandas, MaplotLib, SeaBorn, & Scikit-learn) 
+- Description: Building and evaluating different machine learning models, balancing model accuracy and model complexity, in order to predict subscriber churn using a dataset of over 5,000 records.  
+- Skills: machine learning, feature engineering, model evaluation , data preparation, data modeling, and communication  
+- Tools & technologies: Python (NumPy, Pandas, MaplotLib, SeaBorn, & Scikit-learn) 
 
 <!--#### Project 2:--> 
 <!--• Description: Exploratory Data Analysis (EDA)-->
