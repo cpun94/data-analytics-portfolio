@@ -25,13 +25,12 @@ Vancouver-Housing-Prices-EDA/
 │
 ├── data/
 │ ├── vancouver_neighborhoods.csv
-│ └── vancouver_synthetic_house_prices.csv
+│ └── vancouver_synthetic_house_prices_2004_2024.csv
 │
 ├── notebooks/
-│ └── vancouver_house_prices_EDA.ipynb
+│ └── vancouver_house_prices_EDA_notebook.ipynb
 │
-├── vancouver_house_prices_2004_trends.md
-└── README.md
+├── vancouver_house_prices_2004_to_2024_notebook.ipynb
 ```
 
 ## Key Insights
