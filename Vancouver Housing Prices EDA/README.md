@@ -17,7 +17,22 @@ The dataset contains over 3,000 synthetic real estate transactions from 10 citie
 
 Key columns include: ``Neighborhood``, ``City``, ``Year``, ``Season``, ``Property Type``, ``Bedrooms``, ``Bathrooms``, ``Year Built``, ``Square Footage (Land)``, and ``Price``.
 
-A separate reference table containing over 40 neighbourhoods in metropolitan Vancouver along with the cities they belong to is also provided. Relevant details will be joined to the primary real estate transactions dataset during the data preparation phase.   
+A separate reference table containing over 40 neighbourhoods in metropolitan Vancouver along with the cities they belong to is also provided. Relevant details will be joined to the primary real estate transactions dataset during the data preparation phase.  
+
+## Project Structure
+```
+Vancouver-Housing-Prices-EDA/
+│
+├── data/
+│ ├── vancouver_neighborhoods.csv
+│ └── vancouver_synthetic_house_prices.csv
+│
+├── notebooks/
+│ └── vancouver_house_prices_EDA.ipynb
+│
+├── vancouver_house_prices_2004_trends.md
+└── README.md
+```
 
 ## Key Insights
 - Total sales volume and average home prices more than doubled over the 20-year period.
