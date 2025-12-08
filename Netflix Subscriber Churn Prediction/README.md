@@ -4,7 +4,7 @@ This project applies a series of machine learning models to predict subscriber c
 
 My interest in this topic stems from both personal experience, like many others, my Netflix usage surged during the COVID-19 pandemic, and the practical relevance of churn prediction in real-world subscription-model businesses. Companies such as Netflix likely rely on data-driven retention models, and this project represents a scaled-down version of how such analytics work in practice. 
 
-This project focuses on the end-to-end machine learning workflow, including data preparation, cleaning and transformation, feature engineering, and the development, evaluation, and interpretation of classification models, and visualization of predicted churn against actual churn using test data (~20% of rows).
+This project focuses on the end-to-end machine learning workflow, including data cleaning and preparation, feature engineering, model development, evaluation, and interpretation. It also includes visualizations comparing predicted churn against actual churn using the test dataset (~20% of total records).
 
 Key objectives of this project include:   
   - Determining which machine learning model is most appropriate for the churn-prediction task, balancing accuracy with model complexity and interpretability.  
