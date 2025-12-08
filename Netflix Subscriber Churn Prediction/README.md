@@ -22,14 +22,14 @@ Key columns include:
 *Additional features will be detailed in later sections.*
 
 ## Objective 
-The main objective of this project is to develop a machine learning based on historical churn information that is useful for decision making. For the model to be "useful", an emphasis will be placed on interpretability and accurate, as defined by model evaluation measures. 
+The goal of this project is to develop a classification machine-learning model that predicts subscriber churn using historical customer behaviour data. To ensure the model is useful for decision-making, the focus will be on both interpretability and performance, guided by appropriate model evaluation metrics.  
 
 ## Approach
-1. **Data Cleaning & Preprocessing:** loading, cleaning, and preparing the data by addressing outliers, filling in missing values, removing duplicates.
-2. **Data Visualization:** analyze variables, examine potential relationships and correlations between variables through visualizations  
-3. **Feature Engineering:** creating additional features from existing features
-4. **Model Development:** create, train, test, select, and refine machine learning model
-5. **Model Evaluation & Interpretation:** data & model evaluation, model benchmarking 
+1. **Data Cleaning & Preprocessing:** Load, clean, and prepare the dataset by handling outliers, filling missing values, and removing duplicates.
+2. **Exploratory Data Analysis (EDA):** Explore variable distributions, identify trends, and examine relationships and correlations through visualizations.  
+3. **Feature Engineering:** Create new features from existing variables to improve model performance and extract deeper patterns. 
+4. **Model Development:** Build, train, test, and tune multiple machine-learning models for comparison. 
+5. **Model Evaluation & Interpretation:** Evaluate model accuracy and complexity, compare results across models, and interpret feature importance to understand drivers of churn. 
 
 ## Key Insights
 *This section is currently in progress and will be updated shortly.*
