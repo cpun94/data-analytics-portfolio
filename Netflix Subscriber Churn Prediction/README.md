@@ -20,6 +20,7 @@ Key columns include:
 This dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset?resource=download&select=netflix_customer_churn.csv).  
 
 ## Project Structure
+``
 netflix-ml-project/
 ├── data/
 ├── notebooks/
@@ -28,6 +29,7 @@ netflix-ml-project/
 ├── visuals/
 ├── reports/
 └── README.md
+``
 
 ## Methodology
 1. **Data Cleaning & Preprocessing:** Load, clean, and prepare the dataset by handling outliers, filling missing values, and removing duplicates.
